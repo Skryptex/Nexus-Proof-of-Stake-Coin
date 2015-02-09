@@ -1,7 +1,7 @@
 NovaCoin 0.4.0 BETA
 
 Copyright (c) 2013 NovaCoin Developers
-Copyright (c) 2011-2013 PPCoin Developers
+Copyright (c) 2011-2013 nexus Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -11,7 +11,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-NovaCoin is a free open source project derived from PPCoin, with
+NovaCoin is a free open source project derived from nexus, with
 the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, innovations such as proof-of-stake and scrypt
 help further advance the field of crypto-currency.
@@ -29,8 +29,8 @@ applications if necessary.
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
 or forward port 9901 (TCP) to your computer so you can receive
-incoming connections.  PPCoin works without incoming connections,
-but allowing incoming connections helps the PPCoin network.
+incoming connections.  nexus works without incoming connections,
+but allowing incoming connections helps the nexus network.
 
 
 Upgrade
@@ -38,7 +38,7 @@ Upgrade
 All you existing coins/transactions should be intact with the upgrade.
 To upgrade from 0.2.x, first backup wallet
 novacoind backupwallet <destination_backup_file>
-Then shutdown ppcoind by
+Then shutdown nexusd by
 novacoind stop
 Start up the new novacoind (0.3.0).
 
