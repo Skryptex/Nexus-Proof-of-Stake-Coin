@@ -1,5 +1,5 @@
 
-/*Nexus Skryptographic-Transfer-System
+   Nexus Skryptographic-Transfer-System
  *-------------------------------
  * Proof of Work/Proof of Stake Hybrid
  * Scrypt
@@ -9,4 +9,3 @@
  * Maximum of * Tokens
  * Default P2P Port: 9222
  * Default RPC Port: 9223
- */
