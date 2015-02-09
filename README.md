@@ -1,6 +1,6 @@
 
    Nexus Skryptographic-Transfer-System
- *-------------------------------
+-------------------------------
  * Proof of Work/Proof of Stake Hybrid
  * Scrypt
  * Linear Difficulty Retarget
